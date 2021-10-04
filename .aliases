@@ -1,3 +1,5 @@
+#!/bin/bash
+
 alias gc="git checkout"
 alias gcp="git cherry-pick"
 alias grp="git rebase"
